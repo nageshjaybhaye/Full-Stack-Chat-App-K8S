@@ -215,11 +215,11 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 ![Settings](frontend/public/settings.png)
 
-![chat](frontend/public/chat.png)
+![chat](frontend/public/chat-convo.png)
 
-![logout](/frontend/public/logout.png)
+![logout](/frontend/public/Architecture.jpg)
 
-![Login](/frontend/public/login.png)
+![Login](/frontend/public/sign-up.png)
 
 
 
