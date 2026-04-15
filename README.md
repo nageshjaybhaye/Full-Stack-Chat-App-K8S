@@ -3,6 +3,7 @@
 
 # Real-Time Chat Application
 
+![chat-app](chatapp.jpg)
 
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
 
